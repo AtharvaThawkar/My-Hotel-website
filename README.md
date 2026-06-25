@@ -8,17 +8,11 @@
 A fully responsive, multi-page **Hotel & Restaurant website** built using HTML5, CSS3, and Bootstrap 5. Features an elegant dark theme, food menu with pricing, hotel amenities showcase, table booking system, and smooth navigation across multiple pages.
 
 ---
-<!-- Do This After Deployment
+
 ## 🌐 Live Demo
 
-> 🔗 **[View Live Demo](#)** ← *(Add your deployed Netlify/GitHub Pages link here)*
+> 🔗 **[View Live Demo](https://myhotelproject2.netlify.app/)**
 
----
-
-## 📸 Screenshots
-
-> *(Add screenshots after deploying — Home page, Menu page, About page)*
--->
 ---
 
 ## 📄 Pages
