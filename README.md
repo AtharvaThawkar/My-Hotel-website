@@ -66,7 +66,31 @@ A fully responsive, multi-page **Hotel & Restaurant website** built using HTML5,
 | Bootstrap Icons | Icon library throughout the site |
 
 ---
+## 📁 Folder Structure
 
+```
+hotel-crown/
+│
+├── index.html          # Home page
+├── menu.html           # Food menu page
+├── about.html          # About & hotel features page
+├── style1.css          # Custom CSS styles
+└── images/             # All project images
+    ├── crown.png       # Hotel logo & favicon
+    ├── hero-bg.jpg     # Hero section background
+    ├── im1.png         # Home page gallery images
+    ├── at.png
+    ├── bb.png
+    ├── 5star.jpg       # About page feature images
+    ├── under.jpg
+    ├── pool.jpg
+    ├── see.jpg
+    ├── dish1-9.jpg     # Menu food images
+    ├── add.jpg         # Add to cart icon
+    ├── buy.jpg         # Buy now icon
+    ├── insta.jpg       # Instagram icon
+    └── fb.jpg          # Facebook icon
+```
 ---
 
 ## 🚀 Getting Started
